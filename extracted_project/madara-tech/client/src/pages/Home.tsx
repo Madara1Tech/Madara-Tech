@@ -62,7 +62,7 @@ export default function Home() {
                 {/* Logo */}
                 <div className="mb-8">
                   <img
-                    src="/manus-storage/file_0000000050e8720abde0db37d89fc013_1d36374f.png"
+                    src="/madara-logo.png"
                     alt="Madara Tech Logo"
                     className="h-40 md:h-48 object-contain drop-shadow-2xl"
                   />
