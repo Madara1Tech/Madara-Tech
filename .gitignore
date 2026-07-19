@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Manus template leftovers containing secrets
+.project-config.json
+**/.project-config.json
